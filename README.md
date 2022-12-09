@@ -30,18 +30,10 @@ npx hardhat run scripts/deploy.js
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-simple-storage-fcc
-cd hardhat-simple-storage-fcc
+git clone https://github.com/CodexpathCommunity/hardhat_simpleStorage.git
+cd hardhat_simpleStorage
 yarn
 yarn hardhat
-```
-
-## Typescript
-
-For the typescript edition, run:
-
-```
-git checkout typescript
 ```
 
 ### Optional Gitpod
